@@ -1,4 +1,11 @@
-27231514382744313
+27242242433735925
+5040500691
+CONN_5040500691_MOL
+
+5040500691 
+0
+8
+8
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60179,12 +60186,26 @@ CustomFootprints
 28
 28
 CustomFootprints
+CONN_5040500691_MOL
+
+5040500691 
+0
+8
+8
+CustomFootprints
 DSG0008A
 
 TPS259541DSGR 
 0
 9
 9
+CustomFootprints
+GCT_USB4105-GF-A
+
+
+0
+16
+16
 CustomFootprints
 L_Wurth_WE-LHMI-7030
 Shielded Power Inductor, body 7.3x6.6x2.8mm, https://www.we-online.com/en/components/products/WE-LHMI#/articles/WE-LHMI-7030
@@ -60199,6 +60220,13 @@ SMT
 0
 2
 2
+CustomFootprints
+Molex_Pico-Lock_504050-0691_1x06-1MP_P1.50mm_Horizontal
+Molex Pico-Lock series connector, 504050-0691 (http://www.molex.com/pdm_docs/sd/5040500891_sd.pdf), generated with kicad-footprint-generator
+connector Molex Pico-Lock horizontal
+0
+8
+7
 CustomFootprints
 PowerPAK-SO-8L_Option-2_VIS
 
@@ -60220,6 +60248,13 @@ SMBJ16A
 0
 2
 2
+CustomFootprints
+USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal_EDITED
+USB 2.0 Type C Receptacle, GCT, 16P, top mounted, horizontal, 5A: https://gct.co/files/drawings/usb4105.pdf
+USB C Type-C Receptacle SMD USB 2.0 16P 16C USB4105-15-A USB4105-15-A-060 USB4105-15-A-120 USB4105-GF-A USB4105-GF-A-060 USB4105-GF-A-120
+0
+20
+17
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -107169,6 +107204,13 @@ igbt diode module
 0
 25
 25
+USB4105-GF-A
+GCT_USB4105-GF-A
+
+
+0
+16
+16
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
