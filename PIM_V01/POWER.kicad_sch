@@ -14137,7 +14137,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "028dc450-fe9c-4b41-b3d0-61b434e82f60")
-		(property "Reference" "#PWR0102"
+		(property "Reference" "#PWR102"
 			(at 323.85 53.34 0)
 			(effects
 				(font
@@ -14188,7 +14188,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR0102")
+					(reference "#PWR102")
 					(unit 1)
 				)
 			)
@@ -14203,7 +14203,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "029b1bc0-e2eb-48bd-942e-5506e924af7e")
-		(property "Reference" "#PWR080"
+		(property "Reference" "#PWR80"
 			(at 135.89 133.35 0)
 			(effects
 				(font
@@ -14253,7 +14253,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR080")
+					(reference "#PWR80")
 					(unit 1)
 				)
 			)
@@ -14277,7 +14277,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "R_Small"
 			(at 69.85 101.092 0)
 			(effects
 				(font
@@ -14400,7 +14400,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "C_Small"
 			(at 42.164 52.578 0)
 			(effects
 				(font
@@ -14523,7 +14523,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "C_Small"
 			(at 190.754 144.018 0)
 			(effects
 				(font
@@ -14637,7 +14637,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "07a482f6-926e-40df-ba02-91a24d60f4c6")
-		(property "Reference" "#PWR0108"
+		(property "Reference" "#PWR108"
 			(at 326.39 91.44 0)
 			(effects
 				(font
@@ -14688,7 +14688,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR0108")
+					(reference "#PWR108")
 					(unit 1)
 				)
 			)
@@ -14712,7 +14712,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10kR"
+		(property "Value" "R_Small"
 			(at 105.664 65.532 0)
 			(effects
 				(font
@@ -14835,7 +14835,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "C_Small"
 			(at 46.482 130.048 0)
 			(effects
 				(font
@@ -14958,7 +14958,7 @@
 				)
 			)
 		)
-		(property "Value" "6.8uH"
+		(property "Value" "L_Small"
 			(at 276.86 48.26 90)
 			(effects
 				(font
@@ -15081,7 +15081,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "R_Small"
 			(at 95.504 85.598 90)
 			(effects
 				(font
@@ -15204,7 +15204,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "C_Small"
 			(at 128.016 139.446 0)
 			(effects
 				(font
@@ -15327,7 +15327,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "C_Small"
 			(at 302.26 58.928 0)
 			(effects
 				(font
@@ -15450,7 +15450,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "C_Small"
 			(at 303.53 156.718 0)
 			(effects
 				(font
@@ -15564,7 +15564,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "14ee8808-bbff-4964-a084-b3f21a2c8f3a")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR70"
 			(at 40.64 48.26 0)
 			(effects
 				(font
@@ -15615,7 +15615,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR070")
+					(reference "#PWR70")
 					(unit 1)
 				)
 			)
@@ -15631,7 +15631,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1513c884-80d6-4f3a-93a2-d0f092212b9b")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR74"
 			(at 82.55 114.3 0)
 			(effects
 				(font
@@ -15682,7 +15682,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR074")
+					(reference "#PWR74")
 					(unit 1)
 				)
 			)
@@ -15707,7 +15707,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "R_Small"
 			(at 95.504 47.498 90)
 			(effects
 				(font
@@ -15821,7 +15821,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "15957e11-7b24-4c5c-bb67-9c03445da612")
-		(property "Reference" "#PWR079"
+		(property "Reference" "#PWR79"
 			(at 135.89 93.98 0)
 			(effects
 				(font
@@ -15871,7 +15871,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR079")
+					(reference "#PWR79")
 					(unit 1)
 				)
 			)
@@ -15886,7 +15886,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "15c4c8e8-1b46-4e00-baa2-b36fcebff875")
-		(property "Reference" "#PWR0101"
+		(property "Reference" "#PWR101"
 			(at 327.66 152.4 0)
 			(effects
 				(font
@@ -15936,7 +15936,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR0101")
+					(reference "#PWR101")
 					(unit 1)
 				)
 			)
@@ -15951,7 +15951,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "18a61fbf-887b-448e-9624-b8d2dc8c0899")
-		(property "Reference" "#PWR088"
+		(property "Reference" "#PWR88"
 			(at 208.28 83.82 0)
 			(effects
 				(font
@@ -16002,7 +16002,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR088")
+					(reference "#PWR88")
 					(unit 1)
 				)
 			)
@@ -16026,7 +16026,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "43.2kR"
+		(property "Value" "R_Small"
 			(at 290.83 162.052 0)
 			(effects
 				(font
@@ -16149,7 +16149,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "C_Small"
 			(at 294.64 58.928 0)
 			(effects
 				(font
@@ -16273,7 +16273,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "R_Small"
 			(at 151.13 237.4899 0)
 			(effects
 				(font
@@ -16396,7 +16396,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "31.6kR"
+		(property "Value" "R_Small"
 			(at 275.59 93.472 0)
 			(effects
 				(font
@@ -16510,7 +16510,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "247edce1-36ab-49e8-bc81-65c20f253e2d")
-		(property "Reference" "#PWR081"
+		(property "Reference" "#PWR81"
 			(at 148.59 236.22 0)
 			(effects
 				(font
@@ -16560,7 +16560,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR081")
+					(reference "#PWR81")
 					(unit 1)
 				)
 			)
@@ -16575,7 +16575,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "257982ed-0edd-44d3-8305-b3f17d74aef7")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR76"
 			(at 134.62 236.22 0)
 			(effects
 				(font
@@ -16625,7 +16625,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR076")
+					(reference "#PWR76")
 					(unit 1)
 				)
 			)
@@ -16649,7 +16649,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "C_Small"
 			(at 286.512 58.928 0)
 			(effects
 				(font
@@ -16772,7 +16772,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470kR"
+		(property "Value" "R_Small"
 			(at 64.008 52.578 90)
 			(effects
 				(font
@@ -16895,7 +16895,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470kR"
+		(property "Value" "R_Small"
 			(at 62.738 90.678 90)
 			(effects
 				(font
@@ -17018,7 +17018,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "430kR"
+		(property "Value" "R_Small"
 			(at 290.068 154.432 0)
 			(effects
 				(font
@@ -17132,7 +17132,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2ed0d46b-fe4b-44e1-b5b9-2b72153354b4")
-		(property "Reference" "#PWR087"
+		(property "Reference" "#PWR87"
 			(at 208.28 45.72 0)
 			(effects
 				(font
@@ -17183,7 +17183,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR087")
+					(reference "#PWR87")
 					(unit 1)
 				)
 			)
@@ -17208,7 +17208,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470R"
+		(property "Value" "R_Small"
 			(at 171.45 237.4899 0)
 			(effects
 				(font
@@ -17453,7 +17453,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100kR"
+		(property "Value" "R_Small"
 			(at 217.17 155.702 0)
 			(effects
 				(font
@@ -17576,7 +17576,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "C_Small"
 			(at 205.232 144.018 0)
 			(effects
 				(font
@@ -17832,7 +17832,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "R_Small"
 			(at 69.85 62.992 0)
 			(effects
 				(font
@@ -17955,7 +17955,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "400kR"
+		(property "Value" "R_Small"
 			(at 278.638 155.702 90)
 			(effects
 				(font
@@ -18078,7 +18078,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3a546647-6c6e-4f90-b91f-fd98b6b5f11c")
-		(property "Reference" "#PWR085"
+		(property "Reference" "#PWR85"
 			(at 182.88 236.22 0)
 			(effects
 				(font
@@ -18128,7 +18128,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR085")
+					(reference "#PWR85")
 					(unit 1)
 				)
 			)
@@ -18152,7 +18152,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "C_Small"
 			(at 115.062 61.468 0)
 			(effects
 				(font
@@ -18266,7 +18266,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4047074e-7621-4c7a-be9d-76b47fdb79f7")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR78"
 			(at 135.89 55.88 0)
 			(effects
 				(font
@@ -18316,7 +18316,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR078")
+					(reference "#PWR78")
 					(unit 1)
 				)
 			)
@@ -18340,7 +18340,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "C_Small"
 			(at 294.64 97.028 0)
 			(effects
 				(font
@@ -18463,7 +18463,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10kR"
+		(property "Value" "R_Small"
 			(at 277.114 62.992 0)
 			(effects
 				(font
@@ -18586,7 +18586,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "21.5kR"
+		(property "Value" "R_Small"
 			(at 255.27 165.862 0)
 			(effects
 				(font
@@ -18709,7 +18709,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "C_Small"
 			(at 234.442 158.75 0)
 			(effects
 				(font
@@ -18824,7 +18824,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ac5502e-4ec8-4d86-ba90-f03cad49cf2b")
-		(property "Reference" "#PWR0103"
+		(property "Reference" "#PWR103"
 			(at 255.27 168.91 0)
 			(effects
 				(font
@@ -18875,7 +18875,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR0103")
+					(reference "#PWR103")
 					(unit 1)
 				)
 			)
@@ -18900,7 +18900,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "R_Small"
 			(at 266.954 44.958 90)
 			(effects
 				(font
@@ -19022,7 +19022,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7uH"
+		(property "Value" "L_Small"
 			(at 284.988 135.382 90)
 			(effects
 				(font
@@ -19144,7 +19144,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "C_Small"
 			(at 130.81 99.568 0)
 			(effects
 				(font
@@ -19267,7 +19267,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "C_Small"
 			(at 288.798 144.272 90)
 			(effects
 				(font
@@ -19391,7 +19391,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "R_Small"
 			(at 95.504 124.968 90)
 			(effects
 				(font
@@ -19505,7 +19505,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "544d4638-7323-4114-b786-ba2130fc06f7")
-		(property "Reference" "#PWR083"
+		(property "Reference" "#PWR83"
 			(at 168.91 236.22 0)
 			(effects
 				(font
@@ -19555,7 +19555,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR083")
+					(reference "#PWR83")
 					(unit 1)
 				)
 			)
@@ -19579,7 +19579,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10kR"
+		(property "Value" "R_Small"
 			(at 276.86 101.092 0)
 			(effects
 				(font
@@ -19702,7 +19702,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "C_Small"
 			(at 316.23 156.718 0)
 			(effects
 				(font
@@ -19824,7 +19824,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "C_Small"
 			(at 268.986 48.768 0)
 			(effects
 				(font
@@ -19946,7 +19946,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100kR"
+		(property "Value" "R_Small"
 			(at 61.976 104.14 0)
 			(effects
 				(font
@@ -20069,7 +20069,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "C_Small"
 			(at 39.624 90.678 0)
 			(effects
 				(font
@@ -20184,7 +20184,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5bfbecd0-c6f4-46f6-bb4d-74fbb170c8d1")
-		(property "Reference" "#PWR086"
+		(property "Reference" "#PWR86"
 			(at 182.88 257.81 0)
 			(effects
 				(font
@@ -20235,7 +20235,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR086")
+					(reference "#PWR86")
 					(unit 1)
 				)
 			)
@@ -20259,7 +20259,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "52.3kR"
+		(property "Value" "R_Small"
 			(at 275.336 55.372 0)
 			(effects
 				(font
@@ -20381,7 +20381,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "C_Small"
 			(at 98.552 129.032 0)
 			(effects
 				(font
@@ -20503,7 +20503,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100kR"
+		(property "Value" "R_Small"
 			(at 61.976 143.256 0)
 			(effects
 				(font
@@ -20626,7 +20626,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "C_Small"
 			(at 131.064 139.192 0)
 			(effects
 				(font
@@ -20749,7 +20749,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "C_Small"
 			(at 50.8 99.568 0)
 			(effects
 				(font
@@ -20872,7 +20872,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "C_Small"
 			(at 297.18 156.718 0)
 			(effects
 				(font
@@ -20995,7 +20995,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "C_Small"
 			(at 50.292 60.198 0)
 			(effects
 				(font
@@ -21118,7 +21118,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "C_Small"
 			(at 34.29 130.048 0)
 			(effects
 				(font
@@ -21248,7 +21248,7 @@
 				)
 			)
 		)
-		(property "Footprint" "QFN-16_MP28167_MNP"
+		(property "Footprint" "CustomFootprints:MP28167GQ-A-P"
 			(at 250.698 168.656 0)
 			(effects
 				(font
@@ -21415,7 +21415,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "C_Small"
 			(at 322.58 156.718 0)
 			(effects
 				(font
@@ -21538,7 +21538,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33nF"
+		(property "Value" "C_Small"
 			(at 62.484 60.198 0)
 			(effects
 				(font
@@ -21661,7 +21661,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33nF"
+		(property "Value" "C_Small"
 			(at 62.484 138.938 0)
 			(effects
 				(font
@@ -21784,7 +21784,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "52.3kR"
+		(property "Value" "R_Small"
 			(at 103.886 58.166 0)
 			(effects
 				(font
@@ -21907,7 +21907,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "C_Small"
 			(at 123.19 99.568 0)
 			(effects
 				(font
@@ -22021,7 +22021,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "787a36d2-a147-4325-ad59-47cf5cb29219")
-		(property "Reference" "#PWR092"
+		(property "Reference" "#PWR92"
 			(at 307.34 91.44 0)
 			(effects
 				(font
@@ -22072,7 +22072,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR092")
+					(reference "#PWR92")
 					(unit 1)
 				)
 			)
@@ -22087,7 +22087,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8708ed98-8f8c-4690-af78-b0ee10038663")
-		(property "Reference" "#PWR0127"
+		(property "Reference" "#PWR127"
 			(at 344.17 152.4 0)
 			(effects
 				(font
@@ -22138,7 +22138,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR0127")
+					(reference "#PWR127")
 					(unit 1)
 				)
 			)
@@ -22162,7 +22162,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22nF"
+		(property "Value" "C_Small"
 			(at 266.954 166.878 0)
 			(effects
 				(font
@@ -22698,7 +22698,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "C_Small"
 			(at 215.392 88.138 0)
 			(effects
 				(font
@@ -22943,7 +22943,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "C_Small"
 			(at 215.392 50.038 0)
 			(effects
 				(font
@@ -23066,7 +23066,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "C_Small"
 			(at 40.894 130.048 0)
 			(effects
 				(font
@@ -23189,7 +23189,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "C_Small"
 			(at 33.02 90.678 0)
 			(effects
 				(font
@@ -23452,7 +23452,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "C_Small"
 			(at 122.936 61.722 0)
 			(effects
 				(font
@@ -23575,7 +23575,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "C_Small"
 			(at 290.322 156.718 0)
 			(effects
 				(font
@@ -23820,7 +23820,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.99kR"
+		(property "Value" "R_Small"
 			(at 104.14 135.636 0)
 			(effects
 				(font
@@ -23942,7 +23942,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "C_Small"
 			(at 98.298 51.308 0)
 			(effects
 				(font
@@ -24064,7 +24064,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "C_Small"
 			(at 209.804 50.038 0)
 			(effects
 				(font
@@ -24187,7 +24187,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "C_Small"
 			(at 115.062 138.938 0)
 			(effects
 				(font
@@ -24311,7 +24311,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "R_Small"
 			(at 77.724 140.462 0)
 			(effects
 				(font
@@ -24434,7 +24434,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100kR"
+		(property "Value" "R_Small"
 			(at 226.06 52.832 0)
 			(effects
 				(font
@@ -24549,7 +24549,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a96e79fe-277b-49ff-8ccb-cfa53663557e")
-		(property "Reference" "#PWR090"
+		(property "Reference" "#PWR90"
 			(at 254 111.76 0)
 			(effects
 				(font
@@ -24600,7 +24600,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR090")
+					(reference "#PWR90")
 					(unit 1)
 				)
 			)
@@ -24624,7 +24624,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "C_Small"
 			(at 286.512 97.028 0)
 			(effects
 				(font
@@ -24747,7 +24747,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470kR"
+		(property "Value" "R_Small"
 			(at 62.738 131.318 90)
 			(effects
 				(font
@@ -24862,7 +24862,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae386132-4161-414c-97c9-64670fcaecbd")
-		(property "Reference" "#PWR084"
+		(property "Reference" "#PWR84"
 			(at 168.91 257.81 0)
 			(effects
 				(font
@@ -24913,7 +24913,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR084")
+					(reference "#PWR84")
 					(unit 1)
 				)
 			)
@@ -24937,7 +24937,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "C_Small"
 			(at 309.88 156.718 0)
 			(effects
 				(font
@@ -25060,7 +25060,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "C_Small"
 			(at 203.2 50.038 0)
 			(effects
 				(font
@@ -25183,7 +25183,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10kR"
+		(property "Value" "R_Small"
 			(at 105.664 143.256 0)
 			(effects
 				(font
@@ -25297,7 +25297,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b26d19eb-aa9b-41b6-a8a2-e18c9ad9043e")
-		(property "Reference" "#PWR099"
+		(property "Reference" "#PWR99"
 			(at 196.85 139.7 0)
 			(effects
 				(font
@@ -25348,7 +25348,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR099")
+					(reference "#PWR99")
 					(unit 1)
 				)
 			)
@@ -25371,7 +25371,7 @@
 				)
 			)
 		)
-		(property "Value" "6.8uH"
+		(property "Value" "L_Small"
 			(at 105.41 51.562 90)
 			(effects
 				(font
@@ -25492,7 +25492,7 @@
 				)
 			)
 		)
-		(property "Value" "6.8uH"
+		(property "Value" "L_Small"
 			(at 105.41 89.662 90)
 			(effects
 				(font
@@ -25606,7 +25606,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b3f0774f-3610-40c1-81bc-a4d72dadf0f3")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR73"
 			(at 82.55 76.2 0)
 			(effects
 				(font
@@ -25657,7 +25657,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR073")
+					(reference "#PWR73")
 					(unit 1)
 				)
 			)
@@ -25682,7 +25682,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "R_Small"
 			(at 185.42 237.4899 0)
 			(effects
 				(font
@@ -25805,7 +25805,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "C_Small"
 			(at 45.212 90.678 0)
 			(effects
 				(font
@@ -25928,7 +25928,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "R_Small"
 			(at 246.38 64.262 0)
 			(effects
 				(font
@@ -26184,7 +26184,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "C_Small"
 			(at 236.22 58.928 0)
 			(effects
 				(font
@@ -26308,7 +26308,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "R_Small"
 			(at 266.954 83.058 90)
 			(effects
 				(font
@@ -26431,7 +26431,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "C_Small"
 			(at 62.23 99.568 0)
 			(effects
 				(font
@@ -26554,7 +26554,7 @@
 				)
 			)
 		)
-		(property "Value" "6.8uH"
+		(property "Value" "L_Small"
 			(at 106.68 128.27 90)
 			(effects
 				(font
@@ -26676,7 +26676,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "C_Small"
 			(at 47.752 52.578 0)
 			(effects
 				(font
@@ -26799,7 +26799,7 @@
 				)
 			)
 		)
-		(property "Value" "6.8uH"
+		(property "Value" "L_Small"
 			(at 276.86 86.36 90)
 			(effects
 				(font
@@ -26913,7 +26913,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c2f6fc97-8573-4575-8b40-a9784e18d033")
-		(property "Reference" "#PWR089"
+		(property "Reference" "#PWR89"
 			(at 254 73.66 0)
 			(effects
 				(font
@@ -26964,7 +26964,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR089")
+					(reference "#PWR89")
 					(unit 1)
 				)
 			)
@@ -26988,7 +26988,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10kR"
+		(property "Value" "R_Small"
 			(at 105.664 103.632 0)
 			(effects
 				(font
@@ -27111,7 +27111,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "R_Small"
 			(at 278.13 144.018 90)
 			(effects
 				(font
@@ -27374,7 +27374,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "C_Small"
 			(at 50.292 138.938 0)
 			(effects
 				(font
@@ -27637,7 +27637,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "C_Small"
 			(at 302.26 97.028 0)
 			(effects
 				(font
@@ -27752,7 +27752,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c7d68962-b8e9-419d-b39e-5a801202649f")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR75"
 			(at 82.55 153.67 0)
 			(effects
 				(font
@@ -27803,7 +27803,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR075")
+					(reference "#PWR75")
 					(unit 1)
 				)
 			)
@@ -27827,7 +27827,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "31.6kR"
+		(property "Value" "R_Small"
 			(at 103.886 96.266 0)
 			(effects
 				(font
@@ -27950,7 +27950,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100kR"
+		(property "Value" "R_Small"
 			(at 63.246 66.04 0)
 			(effects
 				(font
@@ -28073,7 +28073,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "C_Small"
 			(at 35.56 52.578 0)
 			(effects
 				(font
@@ -28196,7 +28196,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "R_Small"
 			(at 246.126 102.108 0)
 			(effects
 				(font
@@ -28319,7 +28319,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "C_Small"
 			(at 276.098 133.35 90)
 			(effects
 				(font
@@ -28433,7 +28433,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "de395d3d-205c-4da3-a6ec-e98ae3bd2243")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR72"
 			(at 39.37 125.73 0)
 			(effects
 				(font
@@ -28484,7 +28484,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR072")
+					(reference "#PWR72")
 					(unit 1)
 				)
 			)
@@ -28507,7 +28507,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "C_Small"
 			(at 98.298 89.408 0)
 			(effects
 				(font
@@ -28629,7 +28629,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF"
+		(property "Value" "C_Small"
 			(at 131.064 61.468 0)
 			(effects
 				(font
@@ -28877,7 +28877,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2a15d59-21b5-49b4-8571-a599e4d99a45")
-		(property "Reference" "#PWR0128"
+		(property "Reference" "#PWR128"
 			(at 344.17 172.72 0)
 			(effects
 				(font
@@ -28928,7 +28928,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR0128")
+					(reference "#PWR128")
 					(unit 1)
 				)
 			)
@@ -28944,7 +28944,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2bc1d39-3863-4a36-87d2-d5a8b9a34242")
-		(property "Reference" "#PWR0107"
+		(property "Reference" "#PWR107"
 			(at 323.85 73.66 0)
 			(effects
 				(font
@@ -28995,7 +28995,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR0107")
+					(reference "#PWR107")
 					(unit 1)
 				)
 			)
@@ -29019,7 +29019,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100kR"
+		(property "Value" "R_Small"
 			(at 227.33 90.932 0)
 			(effects
 				(font
@@ -29142,7 +29142,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "C_Small"
 			(at 237.744 97.282 0)
 			(effects
 				(font
@@ -29257,7 +29257,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea504a4a-3b50-43f9-a2c5-84dfd7b63f9f")
-		(property "Reference" "#PWR0104"
+		(property "Reference" "#PWR104"
 			(at 262.89 176.53 0)
 			(effects
 				(font
@@ -29308,7 +29308,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR0104")
+					(reference "#PWR104")
 					(unit 1)
 				)
 			)
@@ -29323,7 +29323,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ecc3cae3-25d5-45ff-9975-998101bcd8d2")
-		(property "Reference" "#PWR091"
+		(property "Reference" "#PWR91"
 			(at 307.34 53.34 0)
 			(effects
 				(font
@@ -29374,7 +29374,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR091")
+					(reference "#PWR91")
 					(unit 1)
 				)
 			)
@@ -29398,7 +29398,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "C_Small"
 			(at 115.062 99.568 0)
 			(effects
 				(font
@@ -29513,7 +29513,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "efc9b8a9-f788-4ca5-9baa-e521b902f051")
-		(property "Reference" "#PWR082"
+		(property "Reference" "#PWR82"
 			(at 148.59 257.81 0)
 			(effects
 				(font
@@ -29564,7 +29564,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR082")
+					(reference "#PWR82")
 					(unit 1)
 				)
 			)
@@ -29588,7 +29588,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF 25V"
+		(property "Value" "C_Small"
 			(at 199.644 144.018 0)
 			(effects
 				(font
@@ -29710,7 +29710,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "C_Small"
 			(at 268.986 86.868 0)
 			(effects
 				(font
@@ -29824,7 +29824,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f6d9babc-6024-4076-9a4e-50836e22abe8")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR77"
 			(at 134.62 257.81 0)
 			(effects
 				(font
@@ -29875,7 +29875,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR077")
+					(reference "#PWR77")
 					(unit 1)
 				)
 			)
@@ -29891,7 +29891,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fa60927a-55f8-4037-9872-2ec0fa918e7e")
-		(property "Reference" "#PWR0109"
+		(property "Reference" "#PWR109"
 			(at 326.39 111.76 0)
 			(effects
 				(font
@@ -29942,7 +29942,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR0109")
+					(reference "#PWR109")
 					(unit 1)
 				)
 			)
@@ -29957,7 +29957,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "faf4262b-13b4-4b94-84b4-229daa7df35b")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR71"
 			(at 38.1 86.36 0)
 			(effects
 				(font
@@ -30008,7 +30008,7 @@
 		(instances
 			(project "PIM_V01"
 				(path "/5c384f20-cda4-438f-85a2-a3fc55c6427a/5d6e84fd-6cc0-4426-8924-60242cc7c477"
-					(reference "#PWR071")
+					(reference "#PWR71")
 					(unit 1)
 				)
 			)
@@ -30032,7 +30032,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0R"
+		(property "Value" "R_Small"
 			(at 267.97 132.588 90)
 			(effects
 				(font
@@ -30156,7 +30156,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470R"
+		(property "Value" "R_Small"
 			(at 137.16 237.4899 0)
 			(effects
 				(font
@@ -30279,7 +30279,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "C_Small"
 			(at 203.2 88.138 0)
 			(effects
 				(font
@@ -30402,7 +30402,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "C_Small"
 			(at 209.804 88.138 0)
 			(effects
 				(font

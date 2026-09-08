@@ -1,4 +1,4 @@
-27242242433735925
+27256559901509497
 5040500691
 CONN_5040500691_MOL
 
@@ -6,6 +6,13 @@ CONN_5040500691_MOL
 0
 8
 8
+ACT45B-101-2P-TL003
+ACT45B-101-2P-TL003_TDK
+
+ACT45B-101-2P-TL003 
+0
+4
+4
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60186,6 +60193,13 @@ CustomFootprints
 28
 28
 CustomFootprints
+ACT45B-101-2P-TL003_TDK
+
+ACT45B-101-2P-TL003 
+0
+4
+4
+CustomFootprints
 CONN_5040500691_MOL
 
 5040500691 
@@ -60207,6 +60221,13 @@ GCT_USB4105-GF-A
 16
 16
 CustomFootprints
+GD5F1GQ5UEYIGR
+WSON8 (8x6mm)
+Integrated Circuit
+0
+9
+9
+CustomFootprints
 L_Wurth_WE-LHMI-7030
 Shielded Power Inductor, body 7.3x6.6x2.8mm, https://www.we-online.com/en/components/products/WE-LHMI#/articles/WE-LHMI-7030
 SMT
@@ -60220,6 +60241,13 @@ SMT
 0
 2
 2
+CustomFootprints
+MP28167GQ-A-P
+
+MP28167GQ-A-P 
+0
+17
+16
 CustomFootprints
 Molex_Pico-Lock_504050-0691_1x06-1MP_P1.50mm_Horizontal
 Molex Pico-Lock series connector, 504050-0691 (http://www.molex.com/pdm_docs/sd/5040500891_sd.pdf), generated with kicad-footprint-generator
@@ -60235,12 +60263,12 @@ SQJ407EP-T1_GE3
 10
 5
 CustomFootprints
-QFN-16_MP28167_MNP
+SMBJ12A
 
-MP28167GQ-A-P 
+SMBJ12A 
 0
-17
-16
+2
+2
 CustomFootprints
 SMBJ16A
 
@@ -63356,6 +63384,13 @@ GDT 3R-6
 0
 3
 3
+GD5F1GQ5UEYIGR
+GD5F1GQ5UEYIGR
+WSON8 (8x6mm)
+Integrated Circuit
+0
+9
+9
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -98741,6 +98776,27 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SMBJ12A
+CR_SMBJ12_BRN
+
+SMBJ12A 
+0
+2
+2
+SMBJ12A
+CR_SMBJ12_BRN-L
+
+SMBJ12A 
+0
+2
+2
+SMBJ12A
+CR_SMBJ12_BRN-M
+
+SMBJ12A 
+0
+2
+2
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
