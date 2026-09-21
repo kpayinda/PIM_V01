@@ -28247,7 +28247,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PowerPAK-SO-8L_Option-2_VIS"
+		(property "Footprint" "CustomFootprints:PowerPAK-SO-8L_Option-2_VIS"
 			(at 111.76 30.48 0)
 			(effects
 				(font
@@ -35265,7 +35265,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DSG0008A"
+		(property "Footprint" "CustomFootprints:DSG0008A"
 			(at 75.184 59.182 0)
 			(effects
 				(font

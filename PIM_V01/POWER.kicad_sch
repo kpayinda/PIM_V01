@@ -21248,7 +21248,7 @@
 				)
 			)
 		)
-		(property "Footprint" "QFN-16_MP28167_MNP"
+		(property "Footprint" "CustomFootprints:MP28167GQ-A-P"
 			(at 250.698 168.656 0)
 			(effects
 				(font
